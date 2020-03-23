@@ -1,0 +1,13 @@
+= TILs (Today I Learned)
+:toc:
+
+== Overview
+
+Dev-related tidbits learned (TILs), inspired by https://github.com/charliegerard[@charliegerard]'s link:https://github.com/charliegerard/dev-notes[repo]!
+
+== Sections
+
+=== [Build tools]
+
+- link:asdf[Gradle build scans]
+
