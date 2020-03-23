@@ -1,5 +1,7 @@
 = Naming features
 
+Summary: *Don't lock yourself into an implementation because of specific language or naming! Give yourself leeway to make updates by using more general, function-focused names.*
+
 As described in this post:
 
 https://architectelevator.com/architecture/naming-agile/
@@ -9,5 +11,3 @@ Carefully naming features such that they are not too specific or implementation-
 The example given in the post is about a "Recent Searches" feature, which is expensive to build because of the personalization required to surface those results.
 The Product team was concerned that not surfacing results based on actual, personalized recent searches would be incomplete and not worthy of delivery.
 Instead, by simply naming them "Suggestions", which is what they functionally represent without focusing on where the suggestions come from, the team is able to deliver the feature incrementally in iterations that start from crude solutions such as hard-coded suggestions to smart suggestions driven by recent searches.
-
-Moral: *Don't lock yourself into an implementation because of specific language or naming! Give yourself leeway to make updates by using more general, function-focused names.*
