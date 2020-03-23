@@ -18,7 +18,7 @@ The gist of the article is that:
 
 * It is good to have simple models to lean on when making decisions in uncertain spaces.
 
-* A few simple models are suggested for these evaluations:
+* A few simple models are suggested for this context:
 ** Compare *switching cost* to *unique utility*.
 We want to minimize switching cost, but if a product offers some unique utility that competitors do not, we may accept the "lock-in".
 
