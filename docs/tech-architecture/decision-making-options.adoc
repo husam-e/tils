@@ -1,0 +1,5 @@
+= Decision making (buying and selling options)
+
+Being able to defer decisions in times of uncertainty is hugely valuable!
+This resonated so well that I felt it deserved its own page.
+See Gregor Hohpe's brilliant link:https://architectelevator.com/architecture/architecture-options/[financial options analogy] for details.

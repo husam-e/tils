@@ -17,6 +17,8 @@ The gist of the article is that:
 ** Mental lock-in (a certain bias based on experiences, argued to be the most dangerous).
 
 * It is good to have simple models to lean on when making decisions in uncertain spaces.
+[quote, Linked article above]
+Architectural thinking is actually surprisingly fast if you focus and stick to simple models.
 
 * A few simple models are suggested for this context:
 ** Compare *switching cost* to *unique utility*.
@@ -31,7 +33,8 @@ The main worrisome quadrant is high switching cost/high switch likelihood, which
 image::img/lock-in_switch-cost-vs-likelihood.png[]
 
 * Decisions should be made based on the *total cost* of an option, which is a combination of liability (switching cost x likelihood) and option price (up-front investment to minimize switching cost, e.g. architectural separations/abstractions).
-_"Minimizing switching costs may not be the most economical choice."_
+[quote, Linked article above]
+Minimizing switching costs may not be the most economical choice.
 
 image::img/lock-in_total-cost-vs-option-price.png[]
 
@@ -39,6 +42,5 @@ image::img/lock-in_total-cost-vs-option-price.png[]
 ** Effort - person-hours.
 ** Under-utilization - not using a tool's full capacity because of restrictions put in place to simplify switching.
 ** Complexity - additional abstraction layers added to simplify switching.
-_"Complexity can be the biggest price you pay for reducing lock-in."_
-
-
+[quote, Linked article above]
+Complexity can be the biggest price you pay for reducing lock-in.
