@@ -18,3 +18,4 @@ Dev-related tidbits learned (TILs), inspired by https://github.com/charliegerard
 Design and architecture related learnings, philosophies, considerations, viewpoints, and so on.
 
 - link:docs/tech-architecture/lock-in.adoc[Evaluating "lock-in"]
+- link:docs/tech-architecture/options-deferring-decisions.adoc[Decision making - buying options]
