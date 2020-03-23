@@ -1,6 +1,6 @@
 = Naming features
 
-Summary: *Don't lock yourself into an implementation because of specific language or naming! Give yourself leeway to make updates by using more general, function-focused names.*
+Summary: *Don't lock yourself into an implementation because of particular language or naming! Give yourself leeway to make updates and iterate by using more general, function-focused names.*
 
 As described in this post:
 
