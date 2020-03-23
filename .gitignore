@@ -1,0 +1,3 @@
+# Ignore local IntelliJ stuff
+.idea
+*.iml
