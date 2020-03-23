@@ -1,0 +1,12 @@
+= Gradle build scans
+
+Gradle has several features to investigate and enhance build performance, one of which is the link:https://guides.gradle.org/creating-build-scans/[build scans plugin].
+Build scans are essentially detailed diagnostic information on the build, the various steps and tasks in it, and how long they take.
+They can be auto-uploaded to a gradle server or to a custom destination, and are useful for identifying bottlenecks and places where better parallelization is possible.
+
+The plugin can be configured to run with every build, and publish as well if desired. See the docs for details:
+
+- https://guides.gradle.org/creating-build-scans/
+- https://docs.gradle.com/enterprise/gradle-plugin/
+
+NOTE: Some functionality may only be available in the _Enterprise_ version of gradle.
