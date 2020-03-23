@@ -1,13 +1,20 @@
 = TILs (Today I Learned)
 :toc:
 
+
 == Overview
 
 Dev-related tidbits learned (TILs), inspired by https://github.com/charliegerard[@charliegerard]'s link:https://github.com/charliegerard/dev-notes[repo]!
 
-== Sections
+
+== Categories
 
 === Build tools
 
 - link:docs/build-tools/gradle-build-scans.adoc[Gradle build scans]
 
+=== Technical Architecture
+
+Design and architecture related learnings, philosophies, considerations, viewpoints, and so on.
+
+- link:docs/tech-architecture/lock-in.adoc[Evaluating "lock-in"]
