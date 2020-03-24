@@ -5,8 +5,9 @@ Build scans are essentially detailed diagnostic information on the build, the va
 
 They can be auto-uploaded to a gradle server, and are useful for identifying bottlenecks and places where better parallelization is possible.
 
-The plugin can be configured to run with every build, and publish as well if desired. See the docs for details:
+The plugin can be configured to run with every build, and publish as well if desired. To run in the command-line, use the `--scan` parameter e.g. `gradlew build --scan`. See the docs for details:
 
+- https://docs.gradle.org/current/userguide/command_line_interface.html#sec:command_line_performance
 - https://guides.gradle.org/creating-build-scans/
 - https://docs.gradle.com/enterprise/gradle-plugin/
 
