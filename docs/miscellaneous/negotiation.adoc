@@ -3,7 +3,7 @@
 Here are some lessons learned from Chris Voss on negotiation. 
 
 
-=== *Tactical empathy (emotional intelligence)*
+=== Tactical empathy (emotional intelligence)
 
 Understand the other side's views and concerns, and what matters to them.
 It's not about agreeing with them, but understanding their rules and principles.
