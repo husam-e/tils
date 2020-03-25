@@ -1,6 +1,6 @@
 = Negotiation
 
-Here are some lessons learned from various sources on negotiation. 
+Here are some lessons learned on negotiation. 
 
 
 === Tactical empathy (emotional intelligence)
