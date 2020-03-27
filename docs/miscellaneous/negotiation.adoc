@@ -1,0 +1,63 @@
+= Negotiation
+
+Here are some lessons learned on the art of negotiation. 
+
+
+=== Tactical empathy (emotional intelligence)
+
+* Understand the counterpart's views and concerns, and what matters to them.
+It's not about agreeing with them, but understanding their rules and principles.
+* Also understand their emotions such that you can validate or recognize their commitment and loss, e.g. "I appreciate you being generous with your time" when the counterpart feels they are doing you a favor by taking time out to communicate with you.
+
+
+=== Labeling
+
+When the other side is feeling a certain way, label their emotions.
+
+* "It sounds like you're angry."
+* "It seems like you're upset about this."
+* "You regret doing this, don't you?" 
+* "You didn't expect to be doing this."
+
+Labeling negative emotions helps mediate the situation.
+Labeling positive emotions reinforces them.
+
+* "Sounds like you enjoy mental challenges."
+* "Seems like you are a loyal person."
+
+Good labels should not be followed up by any additional statements or explanations.
+If there's no response, give their argument credit:
+
+* "It seems like there's an aspect to your point of view that I hadn't considered."
+* "Perhaps I didn't go deep enough into that."
+
+
+=== Mirroring
+
+People who are _interested_ are perceived to be _interesting_.
+Repeat some words from the counterpart's language; often the last 1-3 words, but can be any part of their speech.
+This usually engages them into explaining and elaborating, and gives them the sense that you care about what they are saying (are interested), making them view you as an interesting and delightful person.
+
+
+=== Voice
+
+* To calm people down, don't tell them to calm down.
+* Smile instead when talking.
+* Avoid the 'assertive' tone of voice - it is counter-protective.
+* Use a playful, or joyful tone, one that suggests collaboration, happiness, jokingness. 
+Use this about 80% of the time to keep people working with you.
+* Use the 'analyst' voice - downward-inflecting, declarative, soothing tone - when stating something immovable, e.g. a term in a contract. 
+Speak slowly and downward. Only use for things that are truly immovable. 
+Feels cold to other side, so use judiciously.
+* Use the 'late night FM-DJ voice' 10-20% of the time. 
+Use when other side is upset. 
+Warm voice, unlike 'analyst' voice (that's the main difference). 
+Good for reducing anxiety.
+* Inquisitive tone of voice can get a lot of info out of the other side.
+
+
+=== Communication
+
+* 7/38/55 ratio - how much people care about content, tonality, and body language.
+
+To be continued...

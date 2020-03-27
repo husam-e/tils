@@ -4,7 +4,7 @@
 
 == Overview
 
-Dev-related tidbits learned (TILs), inspired by https://github.com/charliegerard[@charliegerard]'s link:https://github.com/charliegerard/dev-notes[repo]!
+Various tidbits learned (TILs), inspired by https://github.com/charliegerard[@charliegerard]'s link:https://github.com/charliegerard/dev-notes[repo]!
 
 
 == Categories
@@ -25,3 +25,9 @@ Design and architecture related learnings, philosophies, considerations, viewpoi
 Product management/ownership/design related learnings.
 
 - link:docs/product-mgmt/naming-features.adoc[Naming features]
+
+=== Miscellaneous
+
+Other lessons such as inter-personal, business related, etc.
+
+- link:docs/miscellaneous/negotiation.adoc[Negotiation]
