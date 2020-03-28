@@ -31,4 +31,4 @@ So substituting for a different low-level module implementation shouldn't break 
 == Sources
 
 - https://github.com/charliegerard/dev-notes/blob/master/softwareDev/solid.md
-- https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-open-closed-principle
+- https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
