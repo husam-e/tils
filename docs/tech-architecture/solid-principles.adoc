@@ -1,0 +1,34 @@
+= SOLID Principles
+
+Object-oriented design principles by Robert C. Martin aka Uncle Bob. 
+These are principles, not rules or goals. 
+They are meant to guide design but not dictate it.
+
+== S - Single responsibility principle
+
+A class should have one and only one reason to change, meaning that a class should have only one job.
+
+== O - Open-closed principle
+
+Objects or entities should be open for extension, but closed for modification.
+By coding to interfaces and having well-defined, single responsibility methods, they can be re-used or combined with other logic to extend the functionality of a class without necessarily modifying the internal logic of the class itself.
+
+== L - Liskov-substitution principle
+
+Every subclass/derived class should be substitutable for their base/parent class.
+
+== I - Interface segregation principle
+
+A client should never be forced to implement an interface that it doesn't use, and clients shouldn't be forced to depend on methods they do not use.
+Interfaces should be specific, single-responsibility to avoid this.
+
+== D - Dependency inversion principle 
+
+Entities must depend on abstractions not on concretions. 
+High-level module should not depend on low-level modules, but they should depend on abstractions.
+So substituting for a different low-level module implementation shouldn't break the high-level module.
+
+== Sources
+
+- https://github.com/charliegerard/dev-notes/blob/master/softwareDev/solid.md
+- https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-open-closed-principle
