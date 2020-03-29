@@ -1,0 +1,37 @@
+= LDAP (Lightweight Directory Access Protocol)
+
+**LDAP** is a protocol for accessing and managing Directory Servers aka Directory Server Agents (DSAs). 
+LDAP is to DSAs what HTTP is to an Apache web server.
+
+LDAP as a protocol has existed for a very long time.
+It’s often used for authentication and storing information about users, groups, and applications, but an LDAP directory server is a fairly general-purpose data store and can be used in a wide variety of applications.
+
+**DSAs** store data as trees of entries, and so often represent organizational data and entities.
+This can include employees, users, servers, and other entities.
+
+An **LDAP entry** is a collection of information about an entity. 
+Each entry consists of three primary components: a distinguished name, a collection of attributes, and a collection of object classes.
+
+An entry’s **distinguished name**, often referred to as a DN, uniquely identifies that entry and its position in the directory information tree (DIT) hierarchy. 
+The DN of an LDAP entry is much like the path to a file on a filesystem.
+
+An LDAP DN is comprised of zero or more elements called **relative distinguished names**, or RDNs. 
+RDNs are basically the attributes of an entry, defined as key-value pairs.
+Each RDN is comprised of one or more (usually just one) attribute-value pairs. 
+For example, “uid=john.doe” represents an RDN comprised of an attribute named “uid” with a value of “john.doe”. 
+If an RDN has multiple attribute-value pairs, they are separated by plus signs, like “givenName=John+sn=Doe”.
+
+**LDAP filters** are how you query an LDAP server i.e. search for entries. 
+There are various types of filters supported, such as:
+
+* Presence filters - `(cn=*)` checks for the presence of a `cn` attribute.
+* Equality filters - `(cn=John Doe)` returns entries where the `cn` attribute is equal to `John Doe`.
+* Logical filters (AND/OR/NOT) - `(&(l=New York)(|(givenName=John)(givenName=Alice))(!(title=Junior)))` returns entries where `l` (typically location) is "New York", and the `givenName` is either "John" or "Alice", and the `title` is not "Junior".
+
+See the link:https://ldap.com/ldap-filters/[LDAP filters] page for details.
+
+== Sources
+
+- https://ldap.com/
+- https://ldap.com/basic-ldap-concepts/
+- https://ldap.com/ldap-filters/

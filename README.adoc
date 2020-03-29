@@ -13,6 +13,10 @@ Various tidbits learned (TILs), inspired by https://github.com/charliegerard[@ch
 
 - link:docs/build-tools/gradle-build-scans.adoc[Gradle build scans]
 
+=== Technical Infrastructure
+
+- link:docs/tech-infra/ldap.adoc[LDAP]
+
 === Technical Architecture
 
 Software design and architecture related learnings, philosophies, considerations, viewpoints, and so on.
