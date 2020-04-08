@@ -19,7 +19,7 @@ If the cost of refactoring to address the feature is low whenever we do decide t
 `Yagni` is only a viable strategy if the code is easy to change, so expending effort on refactoring isn't a violation of yagni because refactoring makes the code more malleable.
 * Martin Fowler argues that "``yagni`` only applies when you introduce extra complexity now that you won't take advantage of until later."
 
-[quote, Martin Fowler article linked below]
+[quote]
 Yagni is not a justification for neglecting the health of your code base. Yagni requires (and enables) malleable code.
 
 == Sources
