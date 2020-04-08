@@ -24,6 +24,7 @@ Software design and architecture related learnings, philosophies, considerations
 - link:docs/tech-architecture/lock-in.adoc[Evaluating "lock-in"]
 - link:docs/tech-architecture/decision-making-options.adoc[Decision making - buying and selling options]
 - link:docs/tech-architecture/solid-principles.adoc[SOLID principles]
+- link:docs/tech-architecture/yagni.adoc[Yagni]
 
 === Product Management
 
