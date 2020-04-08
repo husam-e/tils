@@ -1,0 +1,27 @@
+= Yagni - You aren't gonna need it
+
+== Summary
+
+The idea that building for some future feature now may be over-engineering and unnecessary. 
+Applies in some scenarios, but not all, as the arguments below illustrate.
+
+== Arguments
+
+* The first argument for `yagni` is that while we may now think we need this presumptive feature, it's likely that we will be wrong. 
+* Factors to take into account:
+** **Cost of build**: all the effort spent on analyzing, programming, and testing this now useless feature.
+** **Cost of delay**: opportunity cost of not delivering a feature that is more pressing now instead, which could generate revenue earlier - as opposed to spending that time on something needed in the future and delaying when we can start seeing some ROI.
+** **Cost of carry**: complexity and effort required to support and build around the code written for a feature that isn't yet used.
+** **Cost of refactoring**: effort required to refactor in the future if we do build the feature now, or if we delay it till later and build then.
+This can help decide if it is worth building now or delaying till later, e.g. if it is easy to enable now for future development, and/or may be expensive to retrofit later it is worth it to build early.
+If the cost of refactoring to address the feature is low whenever we do decide to do it, then can delay the build.
+* __``Yagni`` only applies to capabilities built into the software to support a presumptive feature, it does not apply to effort to make the software easier to modify.__ 
+`Yagni` is only a viable strategy if the code is easy to change, so expending effort on refactoring isn't a violation of yagni because refactoring makes the code more malleable.
+* Martin Fowler argues that "``yagni`` only applies when you introduce extra complexity now that you won't take advantage of until later."
+
+[quote, Martin Fowler article linked below]
+Yagni is not a justification for neglecting the health of your code base. Yagni requires (and enables) malleable code.
+
+== Sources
+
+- https://martinfowler.com/bliki/Yagni.html
