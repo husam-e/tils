@@ -60,4 +60,12 @@ Good for reducing anxiety.
 
 * 7/38/55 ratio - how much people care about content, tonality, and body language.
 
+=== Asking questions
+
+* Ask calibrated questions - `What` and `How` instead of `Why`, as `Why` questions trigger defensive responses.
+This is supposedly due to psychological learnings from infantry when being asked `why` was considered accusatory of doing something wrong.
+`Why do you need this in 3 weeks?` -> `What requires you to have this done in 3 weeks?`
+* Avoid triggering reciprocity when you're not ready for it.
+Some questions trigger an equivalent question to be asked back, so if you ask for something and aren't ready to provide something in return, avoid asking the question.
+
 To be continued...
