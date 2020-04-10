@@ -37,3 +37,10 @@ Product management/ownership/design related learnings.
 Other lessons such as inter-personal, business related, etc.
 
 - link:docs/miscellaneous/negotiation.adoc[Negotiation]
+
+
+== Disclaimer
+
+_**Most learnings and content are directly derived or taken from other places.
+Links are usually provided to the source.
+Intention is to highlight areas of interest, content generally not intended to be considered my original work by any means.**_
