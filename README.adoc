@@ -37,6 +37,7 @@ Product management/ownership/design related learnings.
 Other lessons such as inter-personal, business related, etc.
 
 - link:docs/miscellaneous/negotiation.adoc[Negotiation]
+- link:docs/miscellaneous/flip-the-script.adoc[Flip the Script]
 
 
 == Disclaimer
