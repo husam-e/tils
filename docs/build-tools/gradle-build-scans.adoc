@@ -12,3 +12,7 @@ The plugin can be configured to run with every build, and publish as well if des
 - https://docs.gradle.com/enterprise/gradle-plugin/
 
 NOTE: Some functionality may only be available in the _Enterprise_ version of gradle.
+
+If build scans are not an option, can get a simpler report via the `--profile` flag e.g. `gradlew --profile <tasks>`, which generates an HTML report at a conventional location in the build directory. 
+
+See https://guides.gradle.org/performance for more info.
