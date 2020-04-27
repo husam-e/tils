@@ -1,6 +1,6 @@
-= My Design Principles
+= My Software Design Principles
 
-An amalgamation of my own principles as thought of over time.
+An amalgamation of my own software design principles as thought of over time.
 
 * Explicit over implicit: the clearer code is, and the more transparent, the easier it is to understand, debug, and maintain.
 * Compile-time checks over runtime checks: the earlier errors can be found and requirements are enforced, the less time will be wasted. 
