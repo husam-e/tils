@@ -3,8 +3,8 @@
 An amalgamation of my own software design principles over time.
 This is a living document that is subject to change.
 
-* Explicit over implicit: the clearer code is, and the more transparent, the easier it is to understand, debug, and maintain.
-* Compile-time checks over runtime checks: the earlier errors can be found and requirements are enforced, the less time will be wasted. 
-* Automated gates and controls over manual ones or documentation: controls that are automated will always be more reliably enforced and abided by than manual ones or documented specs and requirements.
-* Tests are an absolute must, committed with changes, not after: the benefits of testing are well known and understood, so there is no excuse for putting it off and having under-tested code.
+* **Explicit over implicit**: the clearer code is, and the more transparent, the easier it is to understand, debug, and maintain.
+* **Compile-time checks over runtime checks**: the earlier errors can be found and requirements are enforced, the less time will be wasted. 
+* **Automated gates and controls over manual ones or documentation**: controls that are automated will always be more reliably enforced and abided by than manual ones or documented specs and requirements.
+* **Tests are an absolute must, committed with changes, not after**: the benefits of testing are well known and understood, so there is no excuse for putting it off and having under-tested code.
 Use good testing libraries to achieve what you need, test thoroughly and integration test, keep coverage high.
