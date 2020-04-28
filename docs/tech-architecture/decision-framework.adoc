@@ -1,13 +1,14 @@
 = Decision Making Framework
 
 Format for making architectural decisions:
+
 1. **Problem**: what are we trying to solve
 1. **Assumptions**: what assumptions can we make about the problems, use cases and potential solutions
 1. **Required optionality**: what options do we need to leave open; make room for
 
 == Source
 
-link:https://martinfowler.com/articles/architect-elevator.html#MakeArchitectureFitForPurpose
+https://martinfowler.com/articles/architect-elevator.html#MakeArchitectureFitForPurpose
 
 [quote]
 As chief architect, I am frequently asked whether an architecture is good. 
