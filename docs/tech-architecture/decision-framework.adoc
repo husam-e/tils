@@ -1,4 +1,4 @@
-= Decision Making Framework
+= Decision making framework
 
 Format for making architectural decisions:
 
