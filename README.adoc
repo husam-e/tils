@@ -26,6 +26,7 @@ Software design and architecture related learnings, philosophies, considerations
 - link:docs/tech-architecture/decision-framework.adoc[Decision making framework]
 - link:docs/tech-architecture/solid-principles.adoc[SOLID principles]
 - link:docs/tech-architecture/yagni.adoc[Yagni]
+- link:docs/tech-architecture/my-software-design-principles.adoc[WIP: My (own) software design principles]
 
 === Product Management
 
