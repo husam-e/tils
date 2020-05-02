@@ -22,6 +22,7 @@ Categorization, and thus links, subject to change.
 
 Software design and architecture related learnings, philosophies, considerations, viewpoints, and so on.
 
+- link:docs/tech-architecture/what-is-architecture.adoc[What is Architecture?]
 - link:docs/tech-architecture/lock-in.adoc[Evaluating "lock-in"]
 - link:docs/tech-architecture/decision-making-options.adoc[Decision making - buying and selling options]
 - link:docs/tech-architecture/decision-framework.adoc[Decision making framework]
