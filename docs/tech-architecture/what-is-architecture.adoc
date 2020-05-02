@@ -2,7 +2,7 @@
 
 Hodgepodge of points from admirable speakers such as Gregor Hohpe and Martin Fowler:
 
-- Architects are concerned with the "non-requirements", the non-functional things like scalability, reliability, maintainability, etc.
+- Architects are concerned with the "non-requirements"; the non-functional things like scalability, reliability, maintainability, etc.
 - Nobody else cares about your architecture - it's invisible.
 - Architecture focuses on the "hidden design", i.e. the quality of the software, the modularization, the layers of abstraction.
 - When arguing for focusing on quality over "quantity" i.e. features, arguing that we need to "do a good job" i.e. craftsmanship, will always lose to economics i.e. business value, cost reduction, etc.
