@@ -8,7 +8,9 @@ Hodgepodge of points from admirable speakers such as Gregor Hohpe and Martin Fow
 - When arguing for focusing on quality over "quantity" i.e. features, arguing that we need to "do a good job" i.e. craftsmanship, will always lose to economics i.e. business value, cost reduction, etc.
 - Architects must visit all floors of the organization; "ride the architect elevator", where they can understand the business strategy and explain the importance of architecture and design to business leads, while also understanding the inner workings in the "engine room", the engineering.
 - Architecture is about "selling options" (see other TIL).
-We pay a price up-front for the *option* or ability to exercise a certain decision or build in the future, presumably at a favorable cost.
+We pay a price up-front for the _option_ or ability to exercise a certain decision or build in the future, presumably at a favorable cost.
 - Architectural diagrams *must* have lines.
-Otherwise, it is just a bunch of "ingredients" or components, without defining their relationships and interactions.
-The same components can interact in so many different ways, and that is what defines the architecture of the *system*.
+Otherwise, it is just a bunch of _ingredients_ or components, without defining their relationships and interactions.
+The same components can interact in so many different ways, and that is what defines the architecture of the _system_.
+- When you go to a restaurant, the menu shows you _dishes_, not ingredients.
+Simiarly, architects are _chefs_, who define the way things work together, as opposed to independently defining or focusing on the pieces or ingredients.
