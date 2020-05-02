@@ -1,6 +1,6 @@
 = What is Architecture?
 
-Hodgepodge of points from admirable speakers such as Gregor Hohpe and Martin Fowler:
+Hodgepodge of points from well-known speakers such as Gregor Hohpe and Martin Fowler:
 
 - Architects are concerned with the "non-requirements"; the non-functional things like scalability, reliability, maintainability, etc.
 - Nobody else cares about your architecture - it's invisible.
