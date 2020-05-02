@@ -1,4 +1,4 @@
-= What is Architecture
+= What is Architecture?
 
 Hodgepodge of points from admirable speakers such as Gregor Hohpe and Martin Fowler:
 
