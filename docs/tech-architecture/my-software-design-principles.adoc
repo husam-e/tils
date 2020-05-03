@@ -8,3 +8,5 @@ This is a living document that is subject to change.
 * **Automated gates and controls over manual ones or documentation**: controls that are automated will always be more reliably enforced and abided by than manual ones or documented specs and requirements.
 * **Tests are an absolute must, committed with changes, not after**: the benefits of testing are well known and understood, so there is no excuse for putting it off and having under-tested code.
 Use good testing libraries to achieve what you need, test thoroughly and integration test, keep coverage high.
+* **Sum(local optima) != global optimum**: always look at the overall system - the big picture - when making decisions and weighing tradeoffs.
+Optimizing locally or in isolation rarely leads to the best solution.
