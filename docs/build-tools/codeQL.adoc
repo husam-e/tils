@@ -1,0 +1,4 @@
+= CodeQL
+
+Security vulnerability code scanner that provides detailed info and analysis, including looking through data and code flows to identify issues.
+It also provides explanations of fix recommendations, and can be setup to run as a github action.
