@@ -1,0 +1,10 @@
+= CodeQL
+
+Security vulnerability code scanner that provides detailed info and analysis, including looking through data and code flows to identify issues.
+It also provides explanations of fix recommendations, and can be setup to run as a github action.
+
+It effectively creates its own database of a repository, allowing you to run queries in the language across it.
+
+Available online at https://LGTM.com for OSI approved projects, and also available for VS Code.
+
+See https://securitylab.github.com/tools/codeql 
