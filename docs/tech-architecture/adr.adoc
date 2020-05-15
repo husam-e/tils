@@ -1,6 +1,6 @@
 = Architecture Decision Records (ADRs)
 
-Document in a particular format, which captures an architecturally meaningful decision. 
+A document in a particular format, which captures an architecturally meaningful decision. 
 The purpose of such documentation is to be able to share with new-joiners or others why a decision was made, the context at the time, and the general thinking process around it - in addition to the decision itself!
 
 == Sources
