@@ -1,6 +1,6 @@
 = Decision making framework
 
-Format for making architectural decisions:
+Format for making design choices:
 
 1. **Problem**: what are we trying to solve
 1. **Assumptions**: what assumptions can we make about the problems, use cases and potential solutions
