@@ -14,6 +14,7 @@ Categorizations, and thus links, subject to change.
 === Build tools
 
 - link:docs/build-tools/gradle-build-scans.adoc[Gradle build scans]
+- link:docs/build-tools/codeQL.adoc[CodeQL]
 
 === Technical Architecture
 
