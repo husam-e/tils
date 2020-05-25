@@ -32,7 +32,7 @@ call n10s.validation.shacl.import.inline( <SHACL snippet>, <SHACL format e.g. 'T
 ```
 
 This can be very handy for enforcing rules on a taxonomy or ontology. 
-These types of constraints are similar to the ones available in the Alloy modeling language, however these are enforceable on the data store, leverage the RDF and SHACL standards, and provide error reporting to violations.
+These types of constraints are similar to the ones available in the Alloy modeling language, however these are enforceable on the data store, leverage the RDF and SHACL standards, and provide error reporting of violations.
 To run a validation of loaded SHACL constraints on graph data, you can do so using the `validate` function provided by the plugin on an adhoc/manual basis, or enforce it on each transaction by adding it as a trigger!
 
 _See docs linked below for latest syntax and capabilities._
