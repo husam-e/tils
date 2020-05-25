@@ -1,6 +1,6 @@
 = RFC Keywords (RFC 2119)
 
-link:https://tools.ietf.org/html/rfc2119[This RFC] defines keywords for other RFCs, when defining requirement levels. Specifically:
+link:https://tools.ietf.org/html/rfc2119[This RFC^] defines keywords for other RFCs, when defining requirement levels. Specifically:
 
 * **MUST/REQUIRED/SHALL**: something that is required; an absolute requirement. 
 * **MUST NOT**: something that is required not to be done or included; an absolute prohibition.
@@ -9,7 +9,7 @@ link:https://tools.ietf.org/html/rfc2119[This RFC] defines keywords for other RF
 * **MAY**: something that is truly optional. 
 Thus there should be no assumptions that an implementation does this thing, so implementations that do provide/implement this item MUST not assume or require that this item exists in other implementations to interoperate properly.
 
-Note that only upper-case usages of these terms constitute the designated meanings above, per updates to this RFC from link:https://tools.ietf.org/html/rfc8174[RFC 8174].
+Note that only upper-case usages of these terms constitute the designated meanings above, per updates to this RFC from link:https://tools.ietf.org/html/rfc8174[RFC 8174^].
 
 == Sources
 
