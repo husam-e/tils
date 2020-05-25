@@ -7,7 +7,7 @@ This RFC defines keywords for other RFCs, when defining requirement levels. Spec
 * **SHOULD/RECOMMENDED**: something that could be excluded or avoided in some cases, but implications must be well understood to do so as it is otherwise generally expected/preferred to be included or done.
 * **SHOULD NOT**: something that could be included or done in some cases, but implications must be well understood to do so as it is otherwise expected/preferred not to be included or done.
 * **MAY**: something that is truly optional. 
-Thus there should be no assumptions that an implementation does this thing, so other implementations that do provide/implement this item MUST not assume or require that this item exists to interoperate properly.
+Thus there should be no assumptions that an implementation does this thing, so implementations that do provide/implement this item MUST not assume or require that this item exists in other implementations to interoperate properly.
 
 == Sources
 
