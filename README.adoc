@@ -18,7 +18,8 @@ Categorizations, and thus links, subject to change.
 
 === Documentation
 
-- link:docs/documentation/rfc2119[RFC keywords (RFC2119)]
+- link:docs/documentation/rfc2119.adoc[RFC keywords (RFC 2119)]
+- link:docs/documentation/adr.adoc[Architecture Decision Records (ADRs)]
 
 === Technical Architecture
 
@@ -31,7 +32,7 @@ Software design and architecture related learnings, philosophies, considerations
 - link:docs/tech-architecture/solid-principles.adoc[SOLID principles]
 - link:docs/tech-architecture/yagni.adoc[Yagni]
 - link:docs/tech-architecture/my-software-design-principles.adoc[WIP: My (own) software design principles]
-- link:docs/tech-architecture/adr.adoc[Architecture Decision Records (ADRs)]
+- link:docs/documentation/adr.adoc[Architecture Decision Records (ADRs) - cross-link]
 
 === Technical Infrastructure
 
