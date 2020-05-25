@@ -18,7 +18,7 @@ _16 TILs and counting..._
 - link:docs/build-tools/gradle-build-scans.adoc[Gradle build scans]
 - link:docs/build-tools/codeQL.adoc[CodeQL]
 
-== Data modeling
+=== Data modeling
 
 - link:docs/data-modeling/shacl.adoc[SHACL]
 
