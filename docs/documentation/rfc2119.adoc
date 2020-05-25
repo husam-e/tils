@@ -1,6 +1,6 @@
 = RFC Keywords (RFC 2119)
 
-This RFC defines keywords for other RFCs. Specifically:
+This RFC defines keywords for other RFCs, when defining requirement levels. Specifically:
 
 * **MUST/REQUIRED/SHALL**: something that is required; an absolute requirement. 
 * **MUST NOT**: something that is required not to be done or included; an absolute prohibition.
