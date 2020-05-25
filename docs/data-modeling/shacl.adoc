@@ -1,0 +1,42 @@
+= SHACL (Shape constraint language)
+
+SHACL is a language specification for defining constraints on RDF data, such that supporting tools can actually enforce them! 
+It allows you to define constraints such as multiplicities (0 or 1 values, 1 to 3 values, etc.), regex patterns to match and so on.
+The neosemantics plugin for Neo4j supports loading SHACL how. here is an example SHACL spec in turtle format:
+
+```
+@prefix neo4j: <http://neo4j.com/myvoc#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+neo4j:PersonShape a sh:NodeShape ;
+  sh:targetClass neo4j:Person ;
+  sh:property [
+    sh:path neo4j:name ;
+    sh:pattern "^\w[\s\w\.]*$" ;
+    sh:maxCount 1 ;
+    sh:datatype xsd:string ;
+  ];
+  sh:property [
+    sh:path neo4j:ACTED_IN ;
+    sh:class neo4j:Movie ;
+    sh:nodeKind sh:IRI ;
+  ] ;
+.
+```
+
+Which can be enforced on the graph using:
+
+```
+call n10s.validation.shacl.import.inline( <SHACL snippet>, <SHACL format e.g. 'Turtle'> )
+```
+
+This can be very handy for enforcing rules on a taxonomy or ontology. 
+These types of constraints are similar to the ones available in the Alloy modeling language, however these are enforceable on the data store.
+To run a validation of loaded SHACL constraints on graph data, you can do so using the `validate` function provided by the plugin on an adhoc/manual basis, or enforce it on each transaction by adding it as a trigger!
+
+_See docs linked below for latest syntax and capabilities._
+
+== Sources
+
+- https://neo4j.com/docs/labs/nsmntx/current/validation/
+- https://www.w3.org/TR/shacl/
