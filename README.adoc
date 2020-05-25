@@ -8,7 +8,7 @@ Various tidbits learned (TILs), inspired by https://github.com/charliegerard[@ch
 
 Categorizations, and thus links, subject to change.
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 
 == Categories
@@ -17,6 +17,10 @@ _15 TILs and counting..._
 
 - link:docs/build-tools/gradle-build-scans.adoc[Gradle build scans]
 - link:docs/build-tools/codeQL.adoc[CodeQL]
+
+== Data modeling
+
+- link:docs/data-modeling/shacl.adoc[SHACL]
 
 === Documentation
 
