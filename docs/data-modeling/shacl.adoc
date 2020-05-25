@@ -1,6 +1,6 @@
 = SHACL (Shapes constraint language)
 
-SHACL is a language specification for defining constraints on RDF data, such that supporting tools can actually enforce them! 
+SHACL is a language for defining constraints on RDF data, such that supporting tools can actually enforce them! 
 It allows you to define constraints such as the type, the multiplicity (0 or 1 values, 1 to 3 values, etc.), the expected regex pattern to match, and so on.
 The neosemantics plugin for Neo4j supports loading SHACL now. 
 Here is an example SHACL snippet from the neosemantics docs in turtle format:
