@@ -8,6 +8,8 @@ Various tidbits learned (TILs), inspired by https://github.com/charliegerard[@ch
 
 Categorizations, and thus links, subject to change.
 
+_15 TILs and counting..._
+
 
 == Categories
 
