@@ -16,6 +16,10 @@ Categorizations, and thus links, subject to change.
 - link:docs/build-tools/gradle-build-scans.adoc[Gradle build scans]
 - link:docs/build-tools/codeQL.adoc[CodeQL]
 
+=== Documentation
+
+- link:docs/documentation/rfc2119[RFC keywords (RFC2119)]
+
 === Technical Architecture
 
 Software design and architecture related learnings, philosophies, considerations, viewpoints, and so on.
