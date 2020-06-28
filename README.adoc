@@ -56,7 +56,7 @@ Other lessons such as inter-personal, business related, etc.
 
 - link:docs/miscellaneous/negotiation.adoc[Negotiation]
 - link:docs/miscellaneous/flip-the-script.adoc[Selling your idea - "Flip the Script"]
-- link:docs/miscellaneous/competency-trap.adoc[The Competency Trap]
+- link:docs/miscellaneous/competency-trap.adoc[The competency trap]
 
 
 == Disclaimer
