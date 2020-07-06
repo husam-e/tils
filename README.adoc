@@ -8,7 +8,7 @@ Various tidbits learned (TILs), inspired by https://github.com/charliegerard[@ch
 
 Categorizations, and thus links, subject to change.
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 
 == Categories
@@ -39,6 +39,7 @@ Software design and architecture related learnings, philosophies, considerations
 - link:docs/tech-architecture/yagni.adoc[Yagni]
 - link:docs/tech-architecture/my-software-design-principles.adoc[WIP: My (own) software design principles]
 - link:docs/documentation/adr.adoc[cross-link: Architecture Decision Records (ADRs)]
+- link:docs/tech-architecture/clean-code.adoc[What is clean code?]
 
 === Technical Infrastructure
 
