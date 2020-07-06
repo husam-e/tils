@@ -9,7 +9,7 @@ Clean code always looks like it was written by someone who cares.
 
 - First rule of functions: they should be small. 
 Second rule: they should be smaller than that. 
-Hardly more than 20 lines, and do one thing.
+They should **do one thing**.
 - Functions should not oscillate between levels of abstraction the way our brain does when we think about and write code.
 - Every line of code in a function should always be at the same level of abstraction, which is 1 level below the function name.
 
