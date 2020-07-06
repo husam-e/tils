@@ -1,0 +1,9 @@
+= What is clean code?
+
+[quote, Uncle Bob talk on clean code]
+The only way to go fast, is to go well.
+
+[quote, Uncle Bob talk on clean code]
+Clean code always looks like it was written by someone who cares.
+
+Every line of code in a function should always be at the same level of abstraction, which is 1 level below the function name.
