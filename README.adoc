@@ -8,7 +8,7 @@ Various tidbits learned (TILs), inspired by https://github.com/charliegerard[@ch
 
 Categorizations, and thus links, subject to change.
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 
 == Categories
@@ -57,6 +57,8 @@ Other lessons such as inter-personal, business related, etc.
 - link:docs/miscellaneous/negotiation.adoc[Negotiation]
 - link:docs/miscellaneous/flip-the-script.adoc[Selling your idea - "Flip the Script"]
 - link:docs/miscellaneous/competency-trap.adoc[The competency trap]
+- link:docs/miscellaneous/curse-of-knowledge.adoc[Curse of knowledge]
+- link:docs/miscellaneous/beginner-mind.adoc[Beginner's mind]
 
 
 == Disclaimer
