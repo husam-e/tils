@@ -1,7 +1,10 @@
 = Curse of knowledge
 
+The curse of knowledge is when you know something too well to be able to explain it to others, who aren't as familiar with it.
+
 [quote, Wikipedia]
 The curse of knowledge is a cognitive bias that occurs when an individual, communicating with other individuals, unknowingly assumes that the others have the background to understand.
+
 
 [quote, Wikipedia]
 For example, in a classroom setting, teachers have difficulty teaching novices because they cannot put themselves in the position of the student. 
