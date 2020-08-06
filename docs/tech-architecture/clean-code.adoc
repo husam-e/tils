@@ -1,0 +1,23 @@
+= What is clean code?
+
+[quote, Uncle Bob talk on clean code]
+The only way to go fast, is to go well.
+
+[quote, Uncle Bob talk on clean code]
+Clean code always looks like it was written by someone who cares.
+
+
+- First rule of functions: they should be small. 
+Second rule: they should be smaller than that. 
+They should **do one thing**.
+- Functions should not oscillate between levels of abstraction the way our brain does when we think about and write code.
+- Extract into methods until you cannot extract anymore, so the code looks like well-written prose.
+- Every line of code in a function should always be at the same level of abstraction, which is 1 level below the function name.
+
+[quote, Clean Code book title page]
+Writing clean code is what you must do in order to call yourself a professional. 
+There is no reasonable excuse for doing anything less than your best.
+
+== Sources
+
+- link:https://youtu.be/7EmboKQH8lM[Clean code by Uncle Bob / Lesson 1]
