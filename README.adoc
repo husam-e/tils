@@ -59,7 +59,7 @@ Other lessons such as inter-personal, business related, etc.
 - link:docs/miscellaneous/flip-the-script.adoc[Selling your idea - "Flip the Script"]
 - link:docs/miscellaneous/competency-trap.adoc[The competency trap]
 - link:docs/miscellaneous/curse-of-knowledge.adoc[Curse of knowledge]
-- link:docs/miscellaneous/beginner-mind.adoc[Beginner's mind]
+- link:docs/miscellaneous/beginners-mind.adoc[Beginner's mind]
 
 
 == Disclaimer
