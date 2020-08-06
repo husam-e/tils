@@ -1,0 +1,13 @@
+= Curse of knowledge
+
+[quote, Wikipedia]
+The curse of knowledge is a cognitive bias that occurs when an individual, communicating with other individuals, unknowingly assumes that the others have the background to understand.
+
+[quote, Wikipedia]
+For example, in a classroom setting, teachers have difficulty teaching novices because they cannot put themselves in the position of the student. 
+A brilliant professor might no longer remember the difficulties that a young student encounters when learning a new subject.
+
+== Sources
+
+- https://en.wikipedia.org/wiki/Curse_of_knowledge
+- https://hbr.org/2006/12/the-curse-of-knowledge
