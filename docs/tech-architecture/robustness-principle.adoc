@@ -11,7 +11,7 @@ Be conservative in what you send, be liberal in what you accept.
 
 This can be applied or interpreted in specific contexts as: 
 
-- (web API context) be selective and minimal in what you expose via your APIs, and the formats and structures you use e.g. consistently use the same Media Type, naming, etc., but be forgiving for received inputs by ignoring unknown properties and coding defensively to potentially handle different casing of enums for example.
+- (web API context) be selective and minimal in what you expose via your APIs, and the formats and structures you use e.g. consistently use the same Media Type, naming, etc., but be forgiving for received inputs by ignoring unknown properties and coding defensively to potentially handle reasonable variations, such as different casing of enums for example.
 Do not expose more than you need, and accept/ignore more than you expect.
 
 == Sources
