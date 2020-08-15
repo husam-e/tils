@@ -8,7 +8,7 @@ Various tidbits learned (TILs), inspired by https://github.com/charliegerard[@ch
 
 Categorizations, and thus links, subject to change.
 
-_21 TILs and counting..._
+_22 TILs and counting..._
 
 
 == Categories
@@ -61,6 +61,7 @@ Other lessons such as inter-personal, business related, etc.
 - link:docs/miscellaneous/competency-trap.adoc[The competency trap]
 - link:docs/miscellaneous/curse-of-knowledge.adoc[Curse of knowledge]
 - link:docs/miscellaneous/beginners-mind.adoc[Beginner's mind]
+- link:docs/miscellaneous/achieving-childhood-dreams-pausch.adoc[Achieving your childhood dreams quotes by Randy Pausch]
 
 
 == Disclaimer
