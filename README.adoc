@@ -8,7 +8,7 @@ Various tidbits learned (TILs), inspired by https://github.com/charliegerard[@ch
 
 Categorizations, and thus links, subject to change.
 
-_22 TILs and counting..._
+_23 TILs and counting..._
 
 
 == Categories
@@ -26,6 +26,7 @@ _22 TILs and counting..._
 
 - link:docs/documentation/rfc2119.adoc[RFC keywords (RFC 2119)]
 - link:docs/documentation/adr.adoc[Architecture Decision Records (ADRs)]
+- link:docs/documentation/4-types-of-documentation.adoc[4 Types of documentation]
 
 === Technical Architecture
 
