@@ -5,7 +5,7 @@ Adding new material to documentation, but in the wrong place i.e. the wrong type
 
 .4 types of documentation grid
 [caption="Screenshot from video: ",]
-image::img/4-types-documentation-grid.png[4-types-documentation-grid]
+image::img/4-types-documentation-grid-generic.png[4-types-documentation-grid]
 
 == 1. Tutorials
 
