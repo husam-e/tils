@@ -1,5 +1,4 @@
 = 4 Types of documentation
-
 :toc:
 
 Adding new material to documentation, but in the wrong place i.e. the wrong type like a tutorial in reference documentation, will make the documentation worse and harder for readers to absorb.
