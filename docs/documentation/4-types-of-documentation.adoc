@@ -10,8 +10,8 @@ image::img/4-types-documentation-grid.png[4-types-documentation-grid]
 == 1. Tutorials
 
 Lessons that take the reader by the hand through a series of steps to complete a project or meaningful exercise of some kind.
+These are **learning-oriented**.
 It needs to show the user that they can achieve something meaningful.
-The audience is **learning-oriented**.
 
 Important aspects (among others to be found in the video linked below):
 
@@ -45,8 +45,8 @@ In a how-to guide, the user already knows enough to ask certain questions, and w
 == 3. Reference
 
 Technical descriptions of the machinery and how to operate it.
-One job - describe.
 **Information-oriented.**
+One job - describe.
 API documentation, library documentation, etc.
 
 Not a good place to explain common concepts or how-to do something (that is for how-to guides).
