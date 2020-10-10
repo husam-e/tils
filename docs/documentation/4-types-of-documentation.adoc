@@ -1,11 +1,6 @@
 = 4 Types of documentation
 
-The 4 types of documentation are:
-
-1. Tutorials
-1. How-to guides
-1. Discussions
-1. Reference
+:toc:
 
 Adding new material to documentation, but in the wrong place i.e. the wrong type like a tutorial in reference documentation, will make the documentation worse and harder for readers to absorb.
 
