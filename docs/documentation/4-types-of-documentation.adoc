@@ -4,7 +4,7 @@
 Adding new material to documentation, but in the wrong place i.e. the wrong type like a tutorial in reference documentation, will make the documentation worse and harder for readers to absorb.
 
 .4 types of documentation grid
-[caption="Figure 1: ",]
+[caption="Screenshot from video: ",]
 image::img/4-types-documentation-grid.png[4-types-documentation-grid]
 
 == 1. Tutorials
