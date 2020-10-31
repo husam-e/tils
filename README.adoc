@@ -42,7 +42,7 @@ Software design and architecture related learnings, philosophies, considerations
 - link:docs/documentation/adr.adoc[cross-link: Architecture Decision Records (ADRs)]
 - link:docs/tech-architecture/clean-code.adoc[What is clean code?]
 - link:docs/tech-architecture/robustness-principle.adoc[The robustness principle]
-- link:docs/tech-architecture/rule-of-three.adoc[The rule of three]
+- link:docs/tech-architecture/rule-of-three.adoc[Rule of three]
 
 === Technical Infrastructure
 
