@@ -3,7 +3,7 @@
 Code refactoring rule of thumb: "two instances of similar code don't require refactoring, but when similar code is used three times, it should be extracted into a new procedure."
 
 The premise is that having additional example patterns is often useful for abstracting a design or coming up with a generic solution.
-KISS > DRY otherwise. 
+`KISS > DRY` otherwise. 
 [quote, Sandi Metz]
 Duplication is far cheaper than the wrong abstraction.
 
