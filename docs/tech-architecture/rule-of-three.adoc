@@ -1,0 +1,14 @@
+= Rule of three
+
+Code refactoring rule of thumb: "two instances of similar code don't require refactoring, but when similar code is used three times, it should be extracted into a new procedure."
+
+The premise is that having additional example patterns is often useful for abstracting a design or coming up with a generic solution.
+`KISS > DRY` otherwise. 
+[quote, Sandi Metz]
+Duplication is far cheaper than the wrong abstraction.
+
+
+== Sources
+
+- https://en.wikipedia.org/wiki/Rule_of_three_(computer_programming)
+- https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction
