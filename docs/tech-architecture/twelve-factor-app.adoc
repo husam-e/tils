@@ -1,4 +1,7 @@
 = The twelve-factor app
+:toc:
+
+== Overview
 
 A methodology for building SaaS apps, in any language, that are cloud-friendly, portable and easy to get started with and contribute to for new members.
 They also aim to have parity between development and production environments.
