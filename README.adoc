@@ -44,6 +44,8 @@ Software design and architecture related learnings, philosophies, considerations
 - link:docs/tech-architecture/robustness-principle.adoc[The robustness principle]
 - link:docs/tech-architecture/rule-of-three.adoc[Rule of three]
 - link:docs/tech-architecture/twelve-factor-app.adoc[The twelve-factor app]
+- link:docs/tech-architecture/first-principles-testing.adoc[F.I.R.S.T. principles in testing]
+
 
 === Technical Infrastructure
 
