@@ -1,0 +1,24 @@
+= F.I.R.S.T. principles in testing
+
+1. *Fast*
+Tests should run quickly to encourage developers to run them at any stage of development.
+
+2. *Independent/isolated*
+Each test should be independent of others and be self-contained.
+Should ideally focus on a particular feature or functionality so it only has a specific reason to fail.
+
+3. *Repeatable*
+Tests should be repeatable, deterministic (consistent), and not require manual input or steps.
+
+4. *Self-validating*
+Tests should pass when the code is valid and correct, and fail (with appropriate messages) otherwise.
+It should not require manual verification of results.
+This is harder for performance or stress tests but is standard for unit tests.
+
+5. *Thorough*
+Tests should be comprehensive, not just cover the syntactic branches but all the use cases and scenarios.
+They should cover edge cases, invalid inputs, security issues, in addition to the happy paths.
+
+== Sources
+
+- https://medium.com/@tasdikrahman/f-i-r-s-t-principles-of-testing-1a497acda8d6
