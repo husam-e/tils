@@ -67,6 +67,7 @@ Other lessons such as inter-personal, business related, etc.
 - link:docs/miscellaneous/curse-of-knowledge.adoc[Curse of knowledge]
 - link:docs/miscellaneous/beginners-mind.adoc[Beginner's mind]
 - link:docs/miscellaneous/achieving-childhood-dreams-pausch.adoc[Achieving your childhood dreams quotes by Randy Pausch]
+- link:docs/miscellaneous/random-quotes.adoc[Random quotes]
 
 
 == Disclaimer
