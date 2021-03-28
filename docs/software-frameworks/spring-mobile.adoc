@@ -1,0 +1,10 @@
+= Spring Mobile
+
+A framework for detecting the type of device requests are coming from, to leverage in a Spring application.
+Provides APIs specifically for determining if the client is mobile, a tablet, or regular browser.
+
+Can come in handy for personalization/customization depending on the device, and potentially for analytics as well.
+
+== Sources
+
+- https://spring.io/projects/spring-mobile

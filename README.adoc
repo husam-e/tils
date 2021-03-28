@@ -8,7 +8,7 @@ Various tidbits learned (TILs), inspired by https://github.com/charliegerard[@ch
 
 Categorizations, and thus links, subject to change.
 
-_26 TILs and counting..._
+_28 TILs and counting..._
 
 
 == Categories
@@ -46,10 +46,14 @@ Software design and architecture related learnings, philosophies, considerations
 - link:docs/tech-architecture/twelve-factor-app.adoc[The twelve-factor app]
 - link:docs/tech-architecture/first-principles-testing.adoc[F.I.R.S.T. principles in testing]
 
-
 === Technical Infrastructure
 
 - link:docs/tech-infra/ldap.adoc[LDAP]
+
+=== Software frameworks
+
+- link:docs/software-frameworks/spring-batch.adoc[Spring Batch]
+- link:docs/software-frameworks/spring-mobile.adoc[Spring Mobile]
 
 === Product Management
 
