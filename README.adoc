@@ -52,6 +52,7 @@ Software design and architecture related learnings, philosophies, considerations
 
 === Software frameworks
 
+- link:docs/software-frameworks/spring-batch.adoc[Spring Batch]
 - link:docs/software-frameworks/spring-mobile.adoc[Spring Mobile]
 
 === Product Management
