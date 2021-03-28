@@ -19,6 +19,8 @@ image::img/spring-batch-reference-model.png[Spring Batch reference model]
 
 The nice thing is that the Spring Batch model acknowledges the concept of having different _instances_ of a Job, e.g. per day, as often times batch jobs are done daily and may need to be repeated for dates in the past.
 
+image::img/spring-job-stereotypes-parameters.png[Spring Job Hierarchy with Parameters]
+
 Additionally, it provides production-quality features for tracking and monitoring the jobs including persisting job information to a repository, where developers need to provision the datastore/dataset but the persistence is provided out-of-the-box (appears to require a SQL repository).
 It also publishes metrics using micrometer for Job runs.
 
