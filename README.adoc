@@ -8,7 +8,7 @@ Various tidbits learned (TILs), inspired by https://github.com/charliegerard[@ch
 
 Categorizations, and thus links, subject to change.
 
-_28 TILs and counting..._
+_29 TILs and counting..._
 
 
 == Categories
@@ -60,6 +60,7 @@ Software design and architecture related learnings, philosophies, considerations
 Product management/ownership/design related learnings.
 
 - link:docs/product-mgmt/naming-features.adoc[Naming features]
+- link:docs/product-mgmt/what-pm-is-not.adoc[What product managers are not]
 
 === Miscellaneous
 
