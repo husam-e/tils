@@ -1,2 +1,26 @@
+= What Product Managers are *not*
+
+== 1. Project managers
+
+Build and manage towards outcomes instead of pre-specified features.
+Deal with uncertainty as opposed to planning around specs.
+
+== 2. JIRA jockeys
+
+Responsible for helping the team prioritize work, regardless of the tool used.
+Not responsible for driving the velocity of delivery.
+
+== 3. Actual managers
+
+Need not manage people.
+Not the CEOs of the product. 
+Lead instead influence, data, evidence and compelling storytelling.
+
+== 4. Fortune tellers
+
+Can't predict the future but can make educated guesses.
+We should instead expect hypotheses driven by market and customer research. 
+
+
 == Source
 https://jeffgothelf.com/blog/5-things-product-management-isnt/
